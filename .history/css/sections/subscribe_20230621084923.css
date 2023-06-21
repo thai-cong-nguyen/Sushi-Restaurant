@@ -1,0 +1,7 @@
+.subscription {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  width: 100%;
+  height: 300px;
+}

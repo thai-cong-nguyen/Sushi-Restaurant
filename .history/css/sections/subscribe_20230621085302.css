@@ -1,0 +1,22 @@
+.subscription {
+  background: var(--primary-color);
+  padding: 64px;
+  background-image: url("../../assets/subscribe_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-direction: column;
+  overflow: hidden;
+}
+.subscription h2 {
+  font-size: 88px;
+  font-family: var(--playfair-display);
+  font-weight: 600;
+  line-height: 123px;
+  color: var(--color-white);
+  text-align: center;
+}
+.subscription p {
+}
+.subscription__form {
+}
